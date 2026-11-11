@@ -1,0 +1,10 @@
+# Binaries
+/lb
+*.exe
+*.test
+
+# Build output
+/dist/
+
+# Go module cache artefacts (never commit these)
+/vendor/
